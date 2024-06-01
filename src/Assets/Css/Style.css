@@ -44,3 +44,11 @@ img {
 .missingpuppy {
   opacity: 0;
 }
+.stud {
+  border: solid, 1px, red;
+  width: 20%;
+  text-align: center;
+}
+.app {
+  display: flex;
+}
